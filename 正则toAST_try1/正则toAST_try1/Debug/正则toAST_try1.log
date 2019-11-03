@@ -1,0 +1,4 @@
+﻿  NFA.cpp
+D:\codehub\编译器\正则toAST_try1\正则toAST_try1\AST.h(10,22): warning C4309:  “初始化”: 截断常量值
+D:\codehub\编译器\正则toAST_try1\正则toAST_try1\AST.h(76,20): warning C4309:  “初始化”: 截断常量值
+  正则toAST_try1.vcxproj -> D:\codehub\编译器\正则toAST_try1\Debug\正则toAST_try1.exe
